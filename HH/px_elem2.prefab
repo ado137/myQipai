@@ -1,0 +1,131 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "px_elem2",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 68,
+      "height": 90
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 48.5,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "df30dNxY4dEaZrAHpvsXE11",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "d71bc24d-00a5-4d7e-a48b-8cfdd063296b"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null,
+    "_spriteFrames": [
+      {
+        "__uuid__": "fda6752f-6c42-458b-aae9-eaf10590a315"
+      },
+      {
+        "__uuid__": "073fdb19-b3bc-43d2-9a44-0b962b8b0cca"
+      },
+      {
+        "__uuid__": "d95197d6-1cb2-4864-b4c8-ad9e7181fc53"
+      },
+      {
+        "__uuid__": "d71bc24d-00a5-4d7e-a48b-8cfdd063296b"
+      },
+      {
+        "__uuid__": "d95197d6-1cb2-4864-b4c8-ad9e7181fc53"
+      },
+      {
+        "__uuid__": "d95197d6-1cb2-4864-b4c8-ad9e7181fc53"
+      }
+    ],
+    "_index": 3,
+    "spriteName": "jinhua1",
+    "_nameEnum": {
+      "danzhang": 0,
+      "duizi": 1,
+      "shunzi": 2,
+      "jinhua": 3,
+      "shunjin": 4,
+      "baozi": 5
+    },
+    "_N$dataID": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "6df6783f-2e90-4b7d-b560-df1e7b9ebf4b"
+    },
+    "fileId": "28RpWqNG9LVaYnSMXabY89",
+    "sync": false
+  }
+]
